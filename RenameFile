@@ -1,4 +1,3 @@
-```python
 Sub JTCRenameFiles()
 Dim JTCDirectory As String
 Dim JTCFile As String
@@ -21,4 +20,3 @@ If .Show = -1 Then
 End If
 End With
 End Sub
-```
